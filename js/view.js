@@ -16,7 +16,6 @@ var View = function(questionList,pantry){
 				if(userAnswer === 'yes'){					
 					viewObj.prefList.push(index);
 				}
-				
 			});
 		});	
 	};

@@ -13,6 +13,7 @@ var Pantry = function(){
 				   'sweeet':['Sugar cube','spoonful of honey','splash of cola'],
 				   'fruity':['Slice of orange','dash of cassis','cherry on top']
 				   };
+				   
 	this.drink = [];	
 	pantryObj = this;		   
 	this.makeDrink = function(prefList){
